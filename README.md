@@ -8,7 +8,7 @@ npm version 3.x
 node js version 4.x or later
 
 ## Things to learn
-* Angular2
+### Angular2
 -[x] Components
 -[x] Directives
 -[x] Services
@@ -16,7 +16,7 @@ node js version 4.x or later
 -[ ] Routes
 -[ ] Read the Docs
 
-* Type Script
+### Type Script
 -[ ] Private Functions
 -[ ] Learn about basic type scripting  
 -[ ] Read Docs
