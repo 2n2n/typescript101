@@ -4,11 +4,13 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import { CoursesComponent } from './courses.component';
 import { AppComponent } from './app.component';
+import { AuthorsComponent } from './authors/authors.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    CoursesComponent
+    CoursesComponent,
+    AuthorsComponent
   ],
   imports: [
     BrowserModule,
@@ -18,6 +20,4 @@ import { AppComponent } from './app.component';
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { 
-  
-}
+export class AppModule {}
