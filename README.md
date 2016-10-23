@@ -9,14 +9,14 @@ node js version 4.x or later
 
 ## Things to learn
 * Angular2
-  -[x] Components
-  -[x] Directives
-  -[x] Services
-  -[ ] AJAX
-  -[ ] Routes
-  -[ ] Read the Docs
+-[x] Components
+-[x] Directives
+-[x] Services
+-[ ] AJAX
+-[ ] Routes
+-[ ] Read the Docs
 
 * Type Script
-  -[ ] Private Functions
-  -[ ] Learn about basic type scripting
-  -[ ] Read Docs
+-[ ] Private Functions
+-[ ] Learn about basic type scripting  
+-[ ] Read Docs
